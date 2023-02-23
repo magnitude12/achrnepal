@@ -10,9 +10,9 @@
     min-height: 100vh;
     background: #08071d;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
-    background: url("../images/bg.png") no-repeat center center/cover;
+    background: url("../images/bg2.jpg") no-repeat center center/cover;
 }
 
 .container form{
