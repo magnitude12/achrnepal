@@ -36,6 +36,12 @@
     padding: 20px 40px;
     border-radius: 5px;
 }
+.logo{
+    flex: 1;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+}
 .image-container{
     flex: 1;
     display: flex;
