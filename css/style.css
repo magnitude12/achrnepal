@@ -76,6 +76,11 @@ header .hero-container .left p.i-am {
   color: #fdfdfd;
   margin: 0;
 }
+header .hero-container .left h3 {
+  font-size: 28px;
+  color: #fdfdfd;
+  text-transform: uppercase;
+}
 
 header .hero-container .left h2 {
   font-size: 64px;
