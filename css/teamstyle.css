@@ -17,7 +17,7 @@
     width: 100%;
     padding: 0.5em 0;
   }
-  h1 {
+  h6 {
     width: 100%;
     text-align: center;
     font-size: 3.5em;
@@ -44,7 +44,7 @@
     width: 100%;
     border-radius: 50%;
   }
-  .card h3 {
+  .card h7 {
     font-weight: 500;
   }
   .card p {
