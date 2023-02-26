@@ -10,11 +10,33 @@
     min-height: 100vh;
     background: #08071d;
     display: flex;
-    justify-content: right;
+    justify-content: center;
     align-items: center;
-    background: url("../images/bg2.jpg") no-repeat center center/cover;
 }
 
+.container nav {
+    background: #fdfdfd00;
+    display: flex;
+    align-items: center;  
+    top: 0;
+  }
+
+section {
+    min-height: 10vh;
+    background: #e6e1e1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+section ul {
+  display: flex;
+  list-style: none;
+}
+
+section ul li {
+  margin: 0 24px;
+}
 .container form{
     width: 670px;
     height: 400px;
