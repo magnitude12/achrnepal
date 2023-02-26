@@ -9,7 +9,7 @@
 
 body{
   min-height: 100vh;
-  background: url("../images/bj3.jpg") no-repeat;
+  background: url("../images/bj31.jpg") no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -28,7 +28,7 @@ body{
   max-width: 500px;
   line-height: 65px;
   padding-left: 50px;
-  font-size: 19px;
+  font-size: 15px;
 }
 
 .contact-info i{
